@@ -30,5 +30,11 @@ public:
             
             swap(str[i],str[head]);//为了防止重复的情况，还需要将head处的元素重新换回来
         }
+<<<<<<< HEAD
     }
 };
+=======
+    
+    }
+};
+>>>>>>> 80e658c1e8838fe4f4363edbceb7146a76bfb0b6
